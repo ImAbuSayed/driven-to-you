@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Driven To You
+
+This log tracks the cryptographic history and versioning for the song **Driven To You** (driven-to-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-01T02:49:32.908397 | `v1` | `95e87f326f5c9aa15d4f04df266f21e147fd2c4f14e5df0570830de00e068d65` | `7350646cdd443111bd650bb13da9059dc8fdb5361f0dd588118578a8135919a1` | `2026-06-01_driven-to-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

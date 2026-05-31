@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/driven-to-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Driven To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/driven-to-you/) |
+| **Get License** | [Get License For Driven To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/driven-to-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `95e87f326f5c9aa15d4f04df266f21e147fd2c4f14e5df0570830de00e068d65` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
